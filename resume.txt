@@ -1,0 +1,41 @@
+Harshitha Komali Olla
+1107N Underhill, Peoria, IL, USA | (309) 323-1408  |  www.linkedin.com/in/komali-olla |  harshithakomali2023@gmail.com
+
+EDUCATION 
+Bradley University.  Peoria, IL 
+Master of Science in Computer Science                          Aug 2023 – May 2025                    Overall GPA - 3.7/4.0  
+Software Project Management, Agile Methodologies, Software Engineering, Web Technologies, DBMS, Python, Artificial Intelligence, Machine Learning
+WORK EXPERIENCE
+              Student Program Coordinator, Turner School of Entrepreneurship and Innovation, USA.  Aug 2024- present
+•	Enhance project coordination by efficiently managing and updating tasks on monday.com, fostering team collaboration, and ensuring timely project completion
+Junior DevOps Engineer.  Innovatech Inc., India.  May 2022 - June 2023
+•	Built and maintained CI/CD pipelines to automate testing, deployment, and delivery processes; by doing so, I reduced deployment errors by 30% and improved model release cycles
+•	Containerized AI-driven microservices using Docker and orchestrated environments for testing and production; by doing so, I enabled faster rollout of reusable, production-ready solutions
+•	Engaged with stakeholders to implement tools and best practices that enhanced system scalability and observability, resulting in improved operational efficiency and uptime
+Cloud Engineer Intern.  Cloudbase Solutions, India.  Nov 2021 - April 2022
+•	Worked with structured data environments to support real-time processing and storage solutions, laying the groundwork for future AI workflows and analytics systems.
+•	Teamed up with cross-functional stakeholders to build cost-efficient and scalable cloud architectures, which helped accelerate cloud-based ML solution deployment.
+•	Gained hands-on experience with logging, monitoring, and debugging tools to ensure resilient and maintainable deployments of AI solutions in dynamic environments.
+PROJECTS
+Scalable ML Workflow for Customer Churn Prediction:
+•	Developed a modular machine learning pipeline using Python, Pandas, and Scikit-learn to predict customer churn based on usage patterns and demographics
+•	Automated model training and evaluation within a CI/CD pipeline using GitHub Actions, enabling consistent testing and reproducibility; by doing so, obtained a 45% boost in development efficiency
+•	Stored preprocessed datasets and model artifacts on AWS S3 for scalable access; by doing so, obtained a 35% improvement in data retrieval speed for downstream applications
+Real-Time Analytics Dashboard for Retail Forecasting:
+•	Built a real-time data processing system using Apache Kafka and Spark Streaming to analyze retail sales and inventory trends
+•	Visualized forecast outputs using Plotly and deployed the dashboard in a containerized environment for internal teams; by doing so, obtained 70% adoption rate by retail analysts
+•	Monitored performance using logging tools and implemented automated alerts for data anomalies; by doing so, obtained a 40% reduction in data quality issues
+		
+SKILLS
+ 
+•  Programming Languages: Python, SQL
+•  Data Manipulation & Analysis: Pandas, NumPy, Scikit-learn
+•  Machine Learning & AI Development: Model Development, Evaluation, Feature Engineering
+•  Software Engineering & APIs: FastAPI, RESTful API Development
+•  Containerization & Deployment: Docker, Kubernetes
+•  CI/CD & Automation: GitHub Actions, CI/CD Pipelines
+•  Data Processing & Integration: AWS Glue, Structured/Unstructured Data, ETL Pipelines
+•  Monitoring & Reliability: Logging, Debugging, Performance Optimization
+•  Version Control & Collaboration: Git, GitHub
+ 
+

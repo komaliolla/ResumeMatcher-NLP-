@@ -1,0 +1,41 @@
+Job Title: Cloud & DevOps Engineering Intern
+Location: Peoria, IL (Hybrid/Remote Preferred)
+Duration: Summer 2025 (May – August)
+Department: Engineering / Cloud Solutions / AI & Automation
+
+Job Description:
+We are seeking a highly motivated and detail-oriented Cloud & DevOps Engineering Intern to join our innovative team. The ideal candidate is currently pursuing a Master’s in Computer Science with hands-on experience in cloud architecture, DevOps automation, and machine learning pipelines. You will contribute to the development and deployment of scalable, cloud-based solutions that support real-time analytics and AI-driven platforms.
+
+Responsibilities:
+Support DevOps processes by maintaining and optimizing CI/CD pipelines using GitHub Actions to enable seamless code integration, testing, and deployment.
+
+Develop and deploy containerized applications using Docker and Kubernetes to ensure consistency across development, staging, and production environments.
+
+Collaborate with software engineers and product managers to build scalable ML workflows, automate model training, and deploy predictive analytics solutions.
+
+Leverage AWS services such as S3 and Glue for data storage, processing, and retrieval for ML applications and data-driven projects.
+
+Monitor system performance using logging tools, implement alerting mechanisms, and troubleshoot issues to ensure high availability and reliability.
+
+Participate in Agile development practices, contribute to sprint planning, and update project tasks using tools like monday.com.
+
+Preferred Qualifications:
+Pursuing a Master’s in Computer Science or related field (Graduating in May 2025).
+
+1+ year of experience in DevOps/Cloud roles or internships.
+
+Strong knowledge of Python, SQL, and data manipulation libraries like Pandas and NumPy.
+
+Experience with containerization (Docker), orchestration (Kubernetes), and cloud platforms (AWS preferred).
+
+Familiarity with ML tools like Scikit-learn and real-time data frameworks like Apache Kafka and Spark.
+
+Proficient in using version control systems (Git/GitHub) and Agile project tracking tools.
+
+Desirable Traits:
+Strong problem-solving mindset with a focus on automation and optimization.
+
+Excellent collaboration and communication skills across multidisciplinary teams.
+
+Passion for working at the intersection of software engineering, AI, and cloud infrastructure.
+
