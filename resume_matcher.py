@@ -16,7 +16,7 @@ nltk.download('omw-1.4')
 stop_words = set(stopwords.words('english'))
 lemmatizer = WordNetLemmatizer()
 
-# ---- Preprocessing Function ---- #
+# Preprocessing Function
 def preprocess_text(text):
     # Lowercase
     text = text.lower()
@@ -33,7 +33,7 @@ def preprocess_text(text):
 
     return clean_tokens
 
-# ---- Cosine Similarity Function ---- #
+# Cosine Similarity Function
 def cosine_similarity(vec1, vec2):
     intersection = set(vec1) & set(vec2)
 
@@ -48,14 +48,14 @@ def cosine_similarity(vec1, vec2):
     else:
         return round((numerator / denominator) * 100, 2)
 
-# ---- Load and Process Text ---- #
+# Load and Process Text
 def load_and_process(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         raw_text = file.read()
         tokens = preprocess_text(raw_text)
         return tokens
 
-# ---- Main Logic ---- #
+# Main Logic
 def main():
     # Load files
     resume_tokens = load_and_process("C:/Users/ohars/NLP/resume.txt")
@@ -79,9 +79,9 @@ def main():
 
     # Suggest edits
     if similarity < 60:
-        print("\n⚠️  Consider adding more relevant keywords or projects to your resume.")
+        print("\n Consider adding more relevant keywords or projects to your resume.")
     else:
-        print("\n✅ Your resume matches the job description quite well!")
+        print("\n Your resume matches the job description quite well!")
 
 if __name__ == "__main__":
     main()
