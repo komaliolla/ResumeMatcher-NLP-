@@ -28,7 +28,7 @@ Stopword Removal: Common words like “the,” “is,” “and,” etc., don’
 
 Lemmatization: Reduces words to their base/root form (e.g., "running" → "run"). We used NLTK’s WordNet Lemmatizer for this.
 
-✅ This ensures we’re working with meaningful, standardized tokens before any analysis.
+This ensures we’re working with meaningful, standardized tokens before any analysis.
 
 #### Tokenization & frequency analysis:
 Once the text is cleaned, we tokenize it — meaning we break it into individual words (tokens) using nltk.word_tokenize().
@@ -39,7 +39,7 @@ We use collections.Counter to count how many times each word appears.
 
 These word frequency dictionaries are then used to build feature vectors for each text.
 
-✅ Frequency analysis lets us numerically compare text content in a meaningful way.
+## Frequency analysis lets us numerically compare text content in a meaningful way.
 
 #### Cosine similarity from scratch:
 Instead of using a pre-built ML library, we implemented cosine similarity ourselves using Python’s math module.
@@ -52,7 +52,7 @@ Formula used:  Cos(tita)=A.B/(||A|| . ||B||)
 
 Where A and B are frequency vectors of the resume and job description.
 
-✅ This shows an understanding of both linear algebra and vector space models in NLP.
+This shows an understanding of both linear algebra and vector space models in NLP.
 
 #### Working with file I/O in Python:
 We used Python’s built-in file handling methods to:
@@ -72,7 +72,7 @@ load_and_process() – handles file reading + preprocessing
 
 main() – coordinates everything cleanly
 
-✅ This design makes the code readable, testable, and scalable for future improvements.
+This design makes the code readable, testable, and scalable for future improvements.
 
 #### Explaining NLP workflows clearly:
 In this project, I documented each major NLP step and added comments throughout the code to explain why each step is important.
@@ -83,5 +83,5 @@ The project README provides a clear walkthrough of the logic.
 
 Output is printed in an intuitive way (match % and suggestions).
 
-✅ Clear communication of NLP pipelines is crucial when working in teams or applying for roles that require explainability.
+Clear communication of NLP pipelines is crucial when working in teams or applying for roles that require explainability.
 
