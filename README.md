@@ -39,9 +39,9 @@ We use collections.Counter to count how many times each word appears.
 
 These word frequency dictionaries are then used to build feature vectors for each text.
 
-## Frequency analysis lets us numerically compare text content in a meaningful way.
+Frequency analysis lets us numerically compare text content in a meaningful way.
 
-#### Cosine similarity from scratch:
+## Cosine similarity from scratch:
 Instead of using a pre-built ML library, we implemented cosine similarity ourselves using Python’s math module.
 
 Cosine similarity calculates the angle between two frequency vectors.
